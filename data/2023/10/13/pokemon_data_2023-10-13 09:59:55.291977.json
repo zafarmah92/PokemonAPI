@@ -1,0 +1,748 @@
+[
+    {
+        "id": 1,
+        "name": "bulbasaur",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 7,
+        "weight": 69,
+        "base_experience": 64,
+        "abilities": [
+            "overgrow",
+            "chlorophyll"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "ivysaur",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 10,
+        "weight": 130,
+        "base_experience": 142,
+        "abilities": [
+            "overgrow",
+            "chlorophyll"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "venusaur",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 20,
+        "weight": 1000,
+        "base_experience": 263,
+        "abilities": [
+            "overgrow",
+            "chlorophyll"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "charmander",
+        "types": [
+            "fire"
+        ],
+        "height": 6,
+        "weight": 85,
+        "base_experience": 62,
+        "abilities": [
+            "blaze",
+            "solar-power"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "charmeleon",
+        "types": [
+            "fire"
+        ],
+        "height": 11,
+        "weight": 190,
+        "base_experience": 142,
+        "abilities": [
+            "blaze",
+            "solar-power"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "charizard",
+        "types": [
+            "fire",
+            "flying"
+        ],
+        "height": 17,
+        "weight": 905,
+        "base_experience": 267,
+        "abilities": [
+            "blaze",
+            "solar-power"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "squirtle",
+        "types": [
+            "water"
+        ],
+        "height": 5,
+        "weight": 90,
+        "base_experience": 63,
+        "abilities": [
+            "torrent",
+            "rain-dish"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "wartortle",
+        "types": [
+            "water"
+        ],
+        "height": 10,
+        "weight": 225,
+        "base_experience": 142,
+        "abilities": [
+            "torrent",
+            "rain-dish"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "blastoise",
+        "types": [
+            "water"
+        ],
+        "height": 16,
+        "weight": 855,
+        "base_experience": 265,
+        "abilities": [
+            "torrent",
+            "rain-dish"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "caterpie",
+        "types": [
+            "bug"
+        ],
+        "height": 3,
+        "weight": 29,
+        "base_experience": 39,
+        "abilities": [
+            "shield-dust",
+            "run-away"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "metapod",
+        "types": [
+            "bug"
+        ],
+        "height": 7,
+        "weight": 99,
+        "base_experience": 72,
+        "abilities": [
+            "shed-skin"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "butterfree",
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "height": 11,
+        "weight": 320,
+        "base_experience": 198,
+        "abilities": [
+            "compound-eyes",
+            "tinted-lens"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "weedle",
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "height": 3,
+        "weight": 32,
+        "base_experience": 39,
+        "abilities": [
+            "shield-dust",
+            "run-away"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "kakuna",
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "height": 6,
+        "weight": 100,
+        "base_experience": 72,
+        "abilities": [
+            "shed-skin"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "beedrill",
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "height": 10,
+        "weight": 295,
+        "base_experience": 178,
+        "abilities": [
+            "swarm",
+            "sniper"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "pidgey",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 3,
+        "weight": 18,
+        "base_experience": 50,
+        "abilities": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "pidgeotto",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 11,
+        "weight": 300,
+        "base_experience": 122,
+        "abilities": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "pidgeot",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 15,
+        "weight": 395,
+        "base_experience": 216,
+        "abilities": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "rattata",
+        "types": [
+            "normal"
+        ],
+        "height": 3,
+        "weight": 35,
+        "base_experience": 51,
+        "abilities": [
+            "run-away",
+            "guts",
+            "hustle"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "raticate",
+        "types": [
+            "normal"
+        ],
+        "height": 7,
+        "weight": 185,
+        "base_experience": 145,
+        "abilities": [
+            "run-away",
+            "guts",
+            "hustle"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "spearow",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 3,
+        "weight": 20,
+        "base_experience": 52,
+        "abilities": [
+            "keen-eye",
+            "sniper"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "fearow",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 12,
+        "weight": 380,
+        "base_experience": 155,
+        "abilities": [
+            "keen-eye",
+            "sniper"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "ekans",
+        "types": [
+            "poison"
+        ],
+        "height": 20,
+        "weight": 69,
+        "base_experience": 58,
+        "abilities": [
+            "intimidate",
+            "shed-skin",
+            "unnerve"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "arbok",
+        "types": [
+            "poison"
+        ],
+        "height": 35,
+        "weight": 650,
+        "base_experience": 157,
+        "abilities": [
+            "intimidate",
+            "shed-skin",
+            "unnerve"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "pikachu",
+        "types": [
+            "electric"
+        ],
+        "height": 4,
+        "weight": 60,
+        "base_experience": 112,
+        "abilities": [
+            "static",
+            "lightning-rod"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "raichu",
+        "types": [
+            "electric"
+        ],
+        "height": 8,
+        "weight": 300,
+        "base_experience": 243,
+        "abilities": [
+            "static",
+            "lightning-rod"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "sandshrew",
+        "types": [
+            "ground"
+        ],
+        "height": 6,
+        "weight": 120,
+        "base_experience": 60,
+        "abilities": [
+            "sand-veil",
+            "sand-rush"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "sandslash",
+        "types": [
+            "ground"
+        ],
+        "height": 10,
+        "weight": 295,
+        "base_experience": 158,
+        "abilities": [
+            "sand-veil",
+            "sand-rush"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "nidoran-f",
+        "types": [
+            "poison"
+        ],
+        "height": 4,
+        "weight": 70,
+        "base_experience": 55,
+        "abilities": [
+            "poison-point",
+            "rivalry",
+            "hustle"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "nidorina",
+        "types": [
+            "poison"
+        ],
+        "height": 8,
+        "weight": 200,
+        "base_experience": 128,
+        "abilities": [
+            "poison-point",
+            "rivalry",
+            "hustle"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "nidoqueen",
+        "types": [
+            "poison",
+            "ground"
+        ],
+        "height": 13,
+        "weight": 600,
+        "base_experience": 253,
+        "abilities": [
+            "poison-point",
+            "rivalry",
+            "sheer-force"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "nidoran-m",
+        "types": [
+            "poison"
+        ],
+        "height": 5,
+        "weight": 90,
+        "base_experience": 55,
+        "abilities": [
+            "poison-point",
+            "rivalry",
+            "hustle"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "nidorino",
+        "types": [
+            "poison"
+        ],
+        "height": 9,
+        "weight": 195,
+        "base_experience": 128,
+        "abilities": [
+            "poison-point",
+            "rivalry",
+            "hustle"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "nidoking",
+        "types": [
+            "poison",
+            "ground"
+        ],
+        "height": 14,
+        "weight": 620,
+        "base_experience": 253,
+        "abilities": [
+            "poison-point",
+            "rivalry",
+            "sheer-force"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "clefairy",
+        "types": [
+            "fairy"
+        ],
+        "height": 6,
+        "weight": 75,
+        "base_experience": 113,
+        "abilities": [
+            "cute-charm",
+            "magic-guard",
+            "friend-guard"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "clefable",
+        "types": [
+            "fairy"
+        ],
+        "height": 13,
+        "weight": 400,
+        "base_experience": 242,
+        "abilities": [
+            "cute-charm",
+            "magic-guard",
+            "unaware"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "vulpix",
+        "types": [
+            "fire"
+        ],
+        "height": 6,
+        "weight": 99,
+        "base_experience": 60,
+        "abilities": [
+            "flash-fire",
+            "drought"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "ninetales",
+        "types": [
+            "fire"
+        ],
+        "height": 11,
+        "weight": 199,
+        "base_experience": 177,
+        "abilities": [
+            "flash-fire",
+            "drought"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "jigglypuff",
+        "types": [
+            "normal",
+            "fairy"
+        ],
+        "height": 5,
+        "weight": 55,
+        "base_experience": 95,
+        "abilities": [
+            "cute-charm",
+            "competitive",
+            "friend-guard"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "wigglytuff",
+        "types": [
+            "normal",
+            "fairy"
+        ],
+        "height": 10,
+        "weight": 120,
+        "base_experience": 218,
+        "abilities": [
+            "cute-charm",
+            "competitive",
+            "frisk"
+        ]
+    },
+    {
+        "id": 41,
+        "name": "zubat",
+        "types": [
+            "poison",
+            "flying"
+        ],
+        "height": 8,
+        "weight": 75,
+        "base_experience": 49,
+        "abilities": [
+            "inner-focus",
+            "infiltrator"
+        ]
+    },
+    {
+        "id": 42,
+        "name": "golbat",
+        "types": [
+            "poison",
+            "flying"
+        ],
+        "height": 16,
+        "weight": 550,
+        "base_experience": 159,
+        "abilities": [
+            "inner-focus",
+            "infiltrator"
+        ]
+    },
+    {
+        "id": 43,
+        "name": "oddish",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 5,
+        "weight": 54,
+        "base_experience": 64,
+        "abilities": [
+            "chlorophyll",
+            "run-away"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "gloom",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 8,
+        "weight": 86,
+        "base_experience": 138,
+        "abilities": [
+            "chlorophyll",
+            "stench"
+        ]
+    },
+    {
+        "id": 45,
+        "name": "vileplume",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 12,
+        "weight": 186,
+        "base_experience": 245,
+        "abilities": [
+            "chlorophyll",
+            "effect-spore"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "paras",
+        "types": [
+            "bug",
+            "grass"
+        ],
+        "height": 3,
+        "weight": 54,
+        "base_experience": 57,
+        "abilities": [
+            "effect-spore",
+            "dry-skin",
+            "damp"
+        ]
+    },
+    {
+        "id": 47,
+        "name": "parasect",
+        "types": [
+            "bug",
+            "grass"
+        ],
+        "height": 10,
+        "weight": 295,
+        "base_experience": 142,
+        "abilities": [
+            "effect-spore",
+            "dry-skin",
+            "damp"
+        ]
+    },
+    {
+        "id": 48,
+        "name": "venonat",
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "height": 10,
+        "weight": 300,
+        "base_experience": 61,
+        "abilities": [
+            "compound-eyes",
+            "tinted-lens",
+            "run-away"
+        ]
+    },
+    {
+        "id": 49,
+        "name": "venomoth",
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "height": 15,
+        "weight": 125,
+        "base_experience": 158,
+        "abilities": [
+            "shield-dust",
+            "tinted-lens",
+            "wonder-skin"
+        ]
+    },
+    {
+        "id": 50,
+        "name": "diglett",
+        "types": [
+            "ground"
+        ],
+        "height": 2,
+        "weight": 8,
+        "base_experience": 53,
+        "abilities": [
+            "sand-veil",
+            "arena-trap",
+            "sand-force"
+        ]
+    }
+]

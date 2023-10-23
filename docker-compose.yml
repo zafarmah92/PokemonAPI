@@ -1,0 +1,22 @@
+version: '3'
+services:
+  postgres:
+    container_name: postgres_personio
+    image: postgres:latest
+    restart: always
+    ports:
+      - 5432:5432
+    environment:
+      - POSTGRES_PASSWORD=secret
+
+  cli-app:
+    container_name: python_container
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      - postgres
+    command: tail -f /dev/null  ## This is a dummy command that keeps the container running
+    volumes: ## so we can see how the files are saved in mounted directory by docker.
+      - .:/app
+  
