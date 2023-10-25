@@ -4,7 +4,7 @@ This Python CLI application interacts with the Pokemon API to fetch Pokemon data
 
 I got the better understanding of JSON response using the Json visualiser. As only first level information was requested. 
 
-![Alt text](json_visualiser.png "JSON visualiser")
+![Alt text](Extras/json_visualiser.png "JSON visualiser")
 
 
 ## Project Tree 

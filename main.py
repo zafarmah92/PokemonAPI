@@ -1,5 +1,5 @@
-from API import api_init
-from postgres_db import db_init
+from API_interaction.API import api_init
+from IO.postgres_db import db_init
 import click
 
 @click.command()
