@@ -38,11 +38,6 @@ Before using this application, you need to have the following prerequisites:
 - Docker and Docker Compose for running the application in a container
 - PostgreSQL server for database storage. 
 
-## Move to directory Personio_coding_test
-   ```bash
-   cd ~/Personio_Assignment/Personio_coding_test/ 
-   ```
-
 ## Installation
 
 2. Create a Python conda environment:
